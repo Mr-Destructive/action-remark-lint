@@ -23,6 +23,6 @@
   "homepage": "https://github.com/reviewdog/action-remark-lint#readme",
   "dependencies": {
     "remark-lint-list-item-indent": "^3.0.1",
-    "remark-preset-lint-recommended": "^6.0.1"
+    "remark-preset-lint-recommended": "^6.1.2"
   }
 }
